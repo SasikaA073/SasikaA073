@@ -1,8 +1,8 @@
 # Hello there  👋
 I'm Sasika Amarasinghe.
 
-- 👀 I’m interested in Data engineering, Machine Learning, 
-- 🌱 I’m currently pursuing my engineering degree at University of Moratuwa, Sri Lanka.
+<!-- - 👀 I’m interested in Data engineering, Machine Learning, 
+- 🌱 I’m currently pursuing my engineering degree at University of Moratuwa, Sri Lanka. -->
 - 🌏 Here's my personal [link tree](https://sasikaa073.github.io).
 - 🙌🏽 You can reach me at amarasingheywsp.21@uom.lk
 
