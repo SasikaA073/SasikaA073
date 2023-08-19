@@ -5,9 +5,9 @@ I'm Sasika Amarasinghe.
 - 🔭 I’m currently working on UI designing of Embedded Systems(OLED displays).
 - 🌏 Here's my personal [link tree](https://sasikaa073.github.io).
 - 📫 You can reach me at [amarasingheywsp.21@uom.lk]()
-- ⚡ Funfact: I love photo walks 🚶🏽‍♂️📸 
+- ⚡ Fun fact: I love photo walks 🚶🏽‍♂️📸 
 
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
