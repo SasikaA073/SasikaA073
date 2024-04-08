@@ -1,7 +1,6 @@
 # Hello there  👋
 I'm Sasika Amarasinghe.
 
-- 🌏 Here's my personal [link tree](https://sasikaa073.github.io).
 - 📫 You can reach me at [amarasingheywsp.21@uom.lk]()
 - ⚡ Fun fact: I love photo walks 🚶🏽‍♂️📸
 
