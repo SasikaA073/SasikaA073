@@ -1,6 +1,4 @@
 
-<h2>GitHub Insights</h2>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <!-- Left Side: GitHub Stats and Contributions -->
   <div style="flex: 2; margin: 10px;">
