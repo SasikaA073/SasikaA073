@@ -5,7 +5,7 @@
     <h2>Sasika Amarasinghe</h2>
     <p>
       <br>• 4th‑year Electronic & Telecommunication Engineering undergrad @ University of Moratuwa 🇱🇰 
-      <br>• Passionate about <b>3D Computer Vision, Computer Graphics & Embedded AI</b>
+      <br>• Passionate about <b>3D Computer Vision, Computational Photography & Embedded AI</b>
       <br>📫 Contact: <a href="mailto:amarasingheywsp.21@uom.lk">amarasingheywsp.21@uom.lk</a><br/>
       🔗 <a href="https://sasikaa073.github.io">Personal site</a> • <a href="https://linkedin.com/in/sasika-amarasinghe">LinkedIn</a> • <a href="https://twitter.com/SasikaA073">X</a>
     </p>
